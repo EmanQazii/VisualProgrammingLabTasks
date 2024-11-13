@@ -1,0 +1,16 @@
+C:\Users\KMC\source\repos\lab6_task05\bin\Debug\net8.0-windows\lab6_task05.exe
+C:\Users\KMC\source\repos\lab6_task05\bin\Debug\net8.0-windows\lab6_task05.deps.json
+C:\Users\KMC\source\repos\lab6_task05\bin\Debug\net8.0-windows\lab6_task05.runtimeconfig.json
+C:\Users\KMC\source\repos\lab6_task05\bin\Debug\net8.0-windows\lab6_task05.dll
+C:\Users\KMC\source\repos\lab6_task05\bin\Debug\net8.0-windows\lab6_task05.pdb
+C:\Users\KMC\source\repos\lab6_task05\obj\Debug\net8.0-windows\lab6_task05.Form1.resources
+C:\Users\KMC\source\repos\lab6_task05\obj\Debug\net8.0-windows\lab6_task05.csproj.GenerateResource.cache
+C:\Users\KMC\source\repos\lab6_task05\obj\Debug\net8.0-windows\lab6_task05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KMC\source\repos\lab6_task05\obj\Debug\net8.0-windows\lab6_task05.AssemblyInfoInputs.cache
+C:\Users\KMC\source\repos\lab6_task05\obj\Debug\net8.0-windows\lab6_task05.AssemblyInfo.cs
+C:\Users\KMC\source\repos\lab6_task05\obj\Debug\net8.0-windows\lab6_task05.csproj.CoreCompileInputs.cache
+C:\Users\KMC\source\repos\lab6_task05\obj\Debug\net8.0-windows\lab6_task05.dll
+C:\Users\KMC\source\repos\lab6_task05\obj\Debug\net8.0-windows\refint\lab6_task05.dll
+C:\Users\KMC\source\repos\lab6_task05\obj\Debug\net8.0-windows\lab6_task05.pdb
+C:\Users\KMC\source\repos\lab6_task05\obj\Debug\net8.0-windows\lab6_task05.genruntimeconfig.cache
+C:\Users\KMC\source\repos\lab6_task05\obj\Debug\net8.0-windows\ref\lab6_task05.dll

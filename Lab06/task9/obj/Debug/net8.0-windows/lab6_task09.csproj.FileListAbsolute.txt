@@ -1,0 +1,16 @@
+C:\Users\KMC\source\repos\lab6_task09\bin\Debug\net8.0-windows\lab6_task09.exe
+C:\Users\KMC\source\repos\lab6_task09\bin\Debug\net8.0-windows\lab6_task09.deps.json
+C:\Users\KMC\source\repos\lab6_task09\bin\Debug\net8.0-windows\lab6_task09.runtimeconfig.json
+C:\Users\KMC\source\repos\lab6_task09\bin\Debug\net8.0-windows\lab6_task09.dll
+C:\Users\KMC\source\repos\lab6_task09\bin\Debug\net8.0-windows\lab6_task09.pdb
+C:\Users\KMC\source\repos\lab6_task09\obj\Debug\net8.0-windows\lab6_task09.Form1.resources
+C:\Users\KMC\source\repos\lab6_task09\obj\Debug\net8.0-windows\lab6_task09.csproj.GenerateResource.cache
+C:\Users\KMC\source\repos\lab6_task09\obj\Debug\net8.0-windows\lab6_task09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KMC\source\repos\lab6_task09\obj\Debug\net8.0-windows\lab6_task09.AssemblyInfoInputs.cache
+C:\Users\KMC\source\repos\lab6_task09\obj\Debug\net8.0-windows\lab6_task09.AssemblyInfo.cs
+C:\Users\KMC\source\repos\lab6_task09\obj\Debug\net8.0-windows\lab6_task09.csproj.CoreCompileInputs.cache
+C:\Users\KMC\source\repos\lab6_task09\obj\Debug\net8.0-windows\lab6_task09.dll
+C:\Users\KMC\source\repos\lab6_task09\obj\Debug\net8.0-windows\refint\lab6_task09.dll
+C:\Users\KMC\source\repos\lab6_task09\obj\Debug\net8.0-windows\lab6_task09.pdb
+C:\Users\KMC\source\repos\lab6_task09\obj\Debug\net8.0-windows\lab6_task09.genruntimeconfig.cache
+C:\Users\KMC\source\repos\lab6_task09\obj\Debug\net8.0-windows\ref\lab6_task09.dll

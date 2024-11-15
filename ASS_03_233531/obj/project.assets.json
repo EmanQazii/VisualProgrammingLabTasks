@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KMC\\source\\repos\\ASS03_233531\\ASS02_233531.csproj",
-      "projectName": "ASS02_233531",
-      "projectPath": "C:\\Users\\KMC\\source\\repos\\ASS03_233531\\ASS02_233531.csproj",
+      "projectUniqueName": "C:\\Users\\KMC\\source\\repos\\ASS03_233531\\ASS03_233531.csproj",
+      "projectName": "ASS03_233531",
+      "projectPath": "C:\\Users\\KMC\\source\\repos\\ASS03_233531\\ASS03_233531.csproj",
       "packagesPath": "C:\\Users\\KMC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\KMC\\source\\repos\\ASS03_233531\\obj\\",
       "projectStyle": "PackageReference",

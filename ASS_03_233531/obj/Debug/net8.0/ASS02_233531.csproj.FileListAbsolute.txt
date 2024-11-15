@@ -1,0 +1,14 @@
+C:\Users\KMC\source\repos\ASS02_233531\bin\Debug\net8.0\ASS02_233531.exe
+C:\Users\KMC\source\repos\ASS02_233531\bin\Debug\net8.0\ASS02_233531.deps.json
+C:\Users\KMC\source\repos\ASS02_233531\bin\Debug\net8.0\ASS02_233531.runtimeconfig.json
+C:\Users\KMC\source\repos\ASS02_233531\bin\Debug\net8.0\ASS02_233531.dll
+C:\Users\KMC\source\repos\ASS02_233531\bin\Debug\net8.0\ASS02_233531.pdb
+C:\Users\KMC\source\repos\ASS02_233531\obj\Debug\net8.0\ASS02_233531.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KMC\source\repos\ASS02_233531\obj\Debug\net8.0\ASS02_233531.AssemblyInfoInputs.cache
+C:\Users\KMC\source\repos\ASS02_233531\obj\Debug\net8.0\ASS02_233531.AssemblyInfo.cs
+C:\Users\KMC\source\repos\ASS02_233531\obj\Debug\net8.0\ASS02_233531.csproj.CoreCompileInputs.cache
+C:\Users\KMC\source\repos\ASS02_233531\obj\Debug\net8.0\ASS02_233531.dll
+C:\Users\KMC\source\repos\ASS02_233531\obj\Debug\net8.0\refint\ASS02_233531.dll
+C:\Users\KMC\source\repos\ASS02_233531\obj\Debug\net8.0\ASS02_233531.pdb
+C:\Users\KMC\source\repos\ASS02_233531\obj\Debug\net8.0\ASS02_233531.genruntimeconfig.cache
+C:\Users\KMC\source\repos\ASS02_233531\obj\Debug\net8.0\ref\ASS02_233531.dll

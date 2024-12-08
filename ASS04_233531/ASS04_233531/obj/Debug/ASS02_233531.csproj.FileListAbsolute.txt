@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\bin\Debug\ASS02_233531.exe.config
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\bin\Debug\ASS02_233531.exe
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\bin\Debug\ASS02_233531.pdb
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\obj\Debug\ASS02_233531.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\obj\Debug\MainWindow.baml
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\obj\Debug\MainWindow.g.cs
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\obj\Debug\App.g.cs
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\obj\Debug\ASS02_233531_MarkupCompile.cache
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\obj\Debug\ASS02_233531.g.resources
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\obj\Debug\ASS02_233531.Properties.Resources.resources
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\obj\Debug\ASS02_233531.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\obj\Debug\ASS02_233531.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\obj\Debug\ASS02_233531.exe
+C:\Users\Hp\source\repos\ASS02_233531\ASS02_233531\obj\Debug\ASS02_233531.pdb
